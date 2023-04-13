@@ -41,4 +41,4 @@ Since I have save the data of J.Crew in supabase table, you can run the app `npm
 
 Frontend of this repo is inspired by [langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs)
 
-This repo uses in-depth Notion guides from the [repo](https://thomasjfrank.com/) LangChain & Supabase - Create a ChatGpt Chatbot for Your Website
+This repo uses in-depth Notion guides from the [repo](https://github.com/mayooear/langchain-supabase-website-chatbot) LangChain & Supabase - Create a ChatGpt Chatbot for Your Website
